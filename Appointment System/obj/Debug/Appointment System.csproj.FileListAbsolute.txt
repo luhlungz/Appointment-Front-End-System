@@ -1,0 +1,82 @@
+C:\Users\lungz\source\repos\Appointment System\Appointment System\bin\Debug\Appointment System.exe.config
+C:\Users\lungz\source\repos\Appointment System\Appointment System\bin\Debug\Appointment System.exe
+C:\Users\lungz\source\repos\Appointment System\Appointment System\bin\Debug\Appointment System.pdb
+C:\Users\lungz\source\repos\Appointment System\Appointment System\obj\Debug\Appointment_System.Form1.resources
+C:\Users\lungz\source\repos\Appointment System\Appointment System\obj\Debug\Appointment_System.Properties.Resources.resources
+C:\Users\lungz\source\repos\Appointment System\Appointment System\obj\Debug\Appointment System.csproj.GenerateResource.cache
+C:\Users\lungz\source\repos\Appointment System\Appointment System\obj\Debug\Appointment System.csproj.CoreCompileInputs.cache
+C:\Users\lungz\source\repos\Appointment System\Appointment System\obj\Debug\Appointment System.exe
+C:\Users\lungz\source\repos\Appointment System\Appointment System\obj\Debug\Appointment System.pdb
+C:\Users\lungz\source\repos\Appointment System\Appointment System\bin\Debug\Database1.mdf
+C:\Users\lungz\source\repos\Appointment System\Appointment System\bin\Debug\Database1_log.ldf
+C:\Users\lungz\source\repos\Appointment System\Appointment System\obj\Debug\Appointment_System.Dashboard.resources
+C:\Users\lungz\source\repos\Appointment System\Appointment System\obj\Debug\Appointment_System.Customer.resources
+C:\Users\lungz\source\repos\Appointment System\Appointment System\obj\Debug\Appointment_System.Barber.resources
+C:\Users\lungz\source\repos\Appointment System\Appointment System\obj\Debug\Appointment_System.HaircutPrices.resources
+C:\Users\lungz\source\repos\Appointment System\Appointment System\obj\Debug\Appointment_System.Appointment.resources
+C:\Users\lungz\source\repos\Appointment System\Appointment System\obj\Debug\Appointment System.csproj.AssemblyReference.cache
+C:\Users\lungz\source\repos\Appointment System\Appointment System\obj\Debug\Appointment_System.User.resources
+C:\Users\lungz\source\repos\Appointment System\Appointment System\obj\Debug\Appointment_System.ManageEmployee.resources
+C:\Users\lungz\source\repos\Appointment System\Appointment System\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\lungz\source\repos\Appointment System\Appointment System\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\lungz\source\repos\Appointment System\Appointment System\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\lungz\source\repos\Appointment System\Appointment System\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\lungz\source\repos\Appointment System\Appointment System\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\lungz\source\repos\Appointment System\Appointment System\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\lungz\source\repos\Appointment System\Appointment System\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\lungz\source\repos\Appointment System\Appointment System\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\lungz\source\repos\Appointment System\Appointment System\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\lungz\source\repos\Appointment System\Appointment System\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\lungz\source\repos\Appointment System\Appointment System\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\lungz\source\repos\Appointment System\Appointment System\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\lungz\source\repos\Appointment System\Appointment System\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\lungz\source\repos\Appointment System\Appointment System\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\lungz\source\repos\Appointment System\Appointment System\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\lungz\source\repos\Appointment System\Appointment System\bin\Debug\stdole.dll
+C:\Users\lungz\source\repos\Appointment System\Appointment System\obj\Debug\Appointment System.csproj.CopyComplete
+C:\Users\lungz\source\repos\Appointment System\Appointment System\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\lungz\source\repos\Appointment System\Appointment System\obj\Debug\Appointment_System.Reports.resources
+C:\Users\lungz\source\repos\Appointment System\Appointment System\obj\Debug\Appointment_System.Payment.resources
+C:\Users\lungz\Videos\Appointment System1\Appointment System\Appointment System\bin\Debug\Database1.mdf
+C:\Users\lungz\Videos\Appointment System1\Appointment System\Appointment System\bin\Debug\Database1_log.ldf
+C:\Users\lungz\Videos\Appointment System1\Appointment System\Appointment System\bin\Debug\Appointment System.exe.config
+C:\Users\lungz\Videos\Appointment System1\Appointment System\Appointment System\bin\Debug\Appointment System.exe
+C:\Users\lungz\Videos\Appointment System1\Appointment System\Appointment System\bin\Debug\Appointment System.pdb
+C:\Users\lungz\Videos\Appointment System1\Appointment System\Appointment System\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\lungz\Videos\Appointment System1\Appointment System\Appointment System\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\lungz\Videos\Appointment System1\Appointment System\Appointment System\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\lungz\Videos\Appointment System1\Appointment System\Appointment System\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\lungz\Videos\Appointment System1\Appointment System\Appointment System\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\lungz\Videos\Appointment System1\Appointment System\Appointment System\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\lungz\Videos\Appointment System1\Appointment System\Appointment System\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\lungz\Videos\Appointment System1\Appointment System\Appointment System\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\lungz\Videos\Appointment System1\Appointment System\Appointment System\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\lungz\Videos\Appointment System1\Appointment System\Appointment System\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\lungz\Videos\Appointment System1\Appointment System\Appointment System\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\lungz\Videos\Appointment System1\Appointment System\Appointment System\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\lungz\Videos\Appointment System1\Appointment System\Appointment System\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\lungz\Videos\Appointment System1\Appointment System\Appointment System\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\lungz\Videos\Appointment System1\Appointment System\Appointment System\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\lungz\Videos\Appointment System1\Appointment System\Appointment System\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\lungz\Videos\Appointment System1\Appointment System\Appointment System\bin\Debug\stdole.dll
+C:\Users\lungz\Videos\Appointment System1\Appointment System\Appointment System\obj\Debug\Appointment System.csproj.AssemblyReference.cache
+C:\Users\lungz\Videos\Appointment System1\Appointment System\Appointment System\obj\Debug\Appointment_System.Appointment.resources
+C:\Users\lungz\Videos\Appointment System1\Appointment System\Appointment System\obj\Debug\Appointment_System.Barber.resources
+C:\Users\lungz\Videos\Appointment System1\Appointment System\Appointment System\obj\Debug\Appointment_System.Customer.resources
+C:\Users\lungz\Videos\Appointment System1\Appointment System\Appointment System\obj\Debug\Appointment_System.Dashboard.resources
+C:\Users\lungz\Videos\Appointment System1\Appointment System\Appointment System\obj\Debug\Appointment_System.Form1.resources
+C:\Users\lungz\Videos\Appointment System1\Appointment System\Appointment System\obj\Debug\Appointment_System.Payment.resources
+C:\Users\lungz\Videos\Appointment System1\Appointment System\Appointment System\obj\Debug\Appointment_System.Reports.resources
+C:\Users\lungz\Videos\Appointment System1\Appointment System\Appointment System\obj\Debug\Appointment_System.HaircutPrices.resources
+C:\Users\lungz\Videos\Appointment System1\Appointment System\Appointment System\obj\Debug\Appointment_System.ManageEmployee.resources
+C:\Users\lungz\Videos\Appointment System1\Appointment System\Appointment System\obj\Debug\Appointment_System.Properties.Resources.resources
+C:\Users\lungz\Videos\Appointment System1\Appointment System\Appointment System\obj\Debug\Appointment_System.User.resources
+C:\Users\lungz\Videos\Appointment System1\Appointment System\Appointment System\obj\Debug\Appointment System.csproj.GenerateResource.cache
+C:\Users\lungz\Videos\Appointment System1\Appointment System\Appointment System\obj\Debug\Appointment System.csproj.CoreCompileInputs.cache
+C:\Users\lungz\Videos\Appointment System1\Appointment System\Appointment System\obj\Debug\Appointment System.csproj.CopyComplete
+C:\Users\lungz\Videos\Appointment System1\Appointment System\Appointment System\obj\Debug\Appointment System.exe
+C:\Users\lungz\Videos\Appointment System1\Appointment System\Appointment System\obj\Debug\Appointment System.pdb
+C:\Users\lungz\Videos\Appointment System1\Appointment System\Appointment System\obj\Debug\Appointment_System.Appointments.resources
+C:\Users\lungz\Videos\Appointment System1\Appointment System\Appointment System\obj\Debug\Appointment_System.Report.resources
+C:\Users\lungz\source\repos\Appointment System\Appointment System\obj\Debug\Appointment_System.Appointments.resources
+C:\Users\lungz\source\repos\Appointment System\Appointment System\obj\Debug\Appointment_System.Report.resources
